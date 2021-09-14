@@ -1,0 +1,26 @@
+*{text-align: center;margin:0; padding: 0;}
+.wrapper{margin-left:5%;margin-right:5%}
+.header{padding: 3%; background: url(image/bg.gif);border-radius: 0px 0px 20px 20px;}
+h1{color:white}
+.row{margin-top: 1%;}
+.fr{float:right}
+.fl{float:left}
+.clr{clear:both}
+.col1{background: blue;}
+.col2{background: green;}
+.col3{background: purple;}
+.col4{background: orangered;}
+.col5{background: rebeccapurple;}
+.nav{height: 40px;}
+.camp{height:150px; width:24.4%}
+.camplogo{height:130px; width:65%;margin-top: 10px;border-radius: 50%;}
+.banner{ height:300px;background: url(image/featured48@wdd2x.jpg) no-repeat center top;}
+.box_left{height: 400px; width: 79%;}
+.box_right{height:400px; width:20%}
+.footer{height:80px;background: url(image/bg.gif);border-radius: 20px 20px 0px 0px;}
+.camp1{
+    height: 180px;
+    border-radius: 50%;
+    width:15.8%
+}
+.mar{margin-left: 1%;}
